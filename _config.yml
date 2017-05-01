@@ -1,0 +1,21 @@
+# Site settings
+title: Therapeutic Coding 
+header-img: img/home-bg.png
+email: joshuavickstrom@outlook.com
+copyright_name: joshuavickstrom
+description: > # this means to ignore newlines until "baseurl:"
+  The journey of a man with a mission. 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  joshuavickstrom
+learn_profile: joshuavickstrom
+email_username: joshuavickstrom@outlook.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
