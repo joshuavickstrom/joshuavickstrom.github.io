@@ -1,19 +1,15 @@
 ---
 layout: post
-title:  "**Why Coding?** Let me tell you..."
-date:   2017-05-01 17:36:03 +0000
+title:  "Why Coding? Let me tell you..."
+date:   2017-05-01 13:36:04 -0400
 ---
 
+**Long story short:**
 
-**Long story short: **
+I have spent the last seven years of my life in the mental health field building a career. Recent health-care changes and the realization that I was miserable helping others build the family of their dreams while sacrificing my own dreams and desires set me on a path for alternative future. 
 
-I've been a mental health professional for seven years. After spending most of my young-adult years investing in the future of others at the expense of my own happiness, I began to search for a way out. 
+After months of researching options that would set me up for success (i.e., minimal financial burden, quality education/training, fast graduation time, etc.) I discovered a novel concept: coding bootcamps. I did more research and found the one that was the best fit for me: FlatIron School. 
 
-I spent months researching various options:
-* *Pursue higher education? No - it would delay the timeline I created for myself and potentially lead to much student-loan debt
- Pursue a new career starting at an entry level position? No - surprisingly, being an expert in human behavior with a strong clinical reputation doesn't give a person a lot of appeal with applying to jobs
- Pursue a second bachelor's degree? Maybe - if I could find a cheap, expedited, program it could work*
-
-It was during my research for a second bachelor's degree in computer science that led me to the idea of a "coding bootcamp" and in a few short hours, I discovered the #amazing FlatIron School and jumped into Javascript. 
-
-The rest is history and the future is filled with possibilities thanks to **#coding <3**
+I am so excited to be starting a new chapter in my life and am looking forward to all the new opportunities #coding will open up for me. !
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BTh_jPBAmnL/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">A beautiful weekend is coming to a close. May will be a month of new adventures, emotional challenges, and great reward. As the sun sets on a chapter in my life, I feel so blessed to have someone starting the next one with me. #tothefuture #feelingloved #sundayfunday #nature #naturephotography #sunset #alexandria #lake #fountain #landscapes #change #challenge #goals</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by Josh(ua) (@joshsays_carpeomnia) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-05-01T01:22:59+00:00">Apr 30, 2017 at 6:22pm PDT</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
