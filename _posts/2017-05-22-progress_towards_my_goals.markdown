@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  Progress towards my goals
-date:   2017-05-22 13:14:54 +0000
+title:      "Github and Resources"
+date:       2017-05-22 09:14:55 -0400
+permalink:  progress_towards_my_goals
 ---
 
-It is with great excitement that I can announce: I've made much progress towards my personal goals! 
+Hi there! Joshua, again. Wow! Github is so cool!! It's funny to consider how many labs I've completed and pushed to Github through the Flatiron Learn IDE without really understanding everything that was involved in the process! I also feel a kind of rejuvinated vigor after completed this curriculum section. It's so exciting to be reminded of collaboration and how coders help make life easier for everyone in the field. 
 
-No longer does seeing an error message incite my inner critic to claim I have failed or compare me to others. 
+I can't imagine what the field was like prior to the creation of Github and other repositories. I feel so fortunate to be learning how to code in this decade! It's so accessible and supportive. There are so many ways to find information and gain more understanding about whatever I have questions. 
 
-No longer do I stress over mistakes or have the expectation that my code should be "perfect" when I sit down to write. 
+However, this too does not come without it's own challenges. For years, I have been a text-book learner. In high school, college, and subsequent educational programs, I have always relied on condensed information sources through which I can read, take notes, and memorize/apply whatever I needed to pass a course. Now, I am tasked with learning new ways to learn and compiling my own resources to serve as a surrogate text-book. Again, I am excited to work through this new challenge and am exiting to have a large virtual library of resources (from Github to Pocket) on which I can rely to help me succeed! 
 
-I still have a long way to go towards the ultimate goals I have set for myself, but I felt it appropriate to celebrate what I have achieved so far. 
-
-HTML(5) has been fun, but rather boring. It is so straight-forward (at least from my first exposure) that I miss the challenges that Ruby presented. I am eager to continue my lessons: I've heard many opinions about Ruby on Rails and it has intrigued me. Hopefully, I will have made further progress towards my personal goals so that I am prepared for what that has in store for me...
+While this section of the curriculum has proven to be a nice "break" from coding with Ruby, I am looking forward the upcoming HTML/CSS sections and the subsequent Procedural and Object Oriented Ruby modules. 
