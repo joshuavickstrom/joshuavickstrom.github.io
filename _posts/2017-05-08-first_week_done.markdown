@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "First Week: Done."
-date:   2017-05-08 13:00:05 +0000
+title:      "Ruby Tic Tac Toe"
+date:       2017-05-08 09:00:06 -0400
+permalink:  first_week_done
 ---
 
 
-I'm super proud of myself as I wake up today. Sure, this blog post is techinically "late", but I'm ignoring that fact. 
+Hello again! Joshua here, and I am so eager to share some great news: I finished coding my first Tic Tac Toe game! I really enjoyed the mini-coding challenges sprinkled throughout the curriculum that built up to this final introductory coding project! Sure, just like any American kid, I grew up playing Tic Tac Toe at school or with my sister. I even learned the special “strategic” moves that would guarantee a win! So, being able to code something so nostalgic to me was exciting and a great learning platform. 
 
-Today marks the one week anniversy for starting the FlatIron program. I chose to leave the career I've spent nearly all of my adult life doing, but I feel empowered and happy for the first time in a long time. 
+For the most part, because of the previous coding exercises, this lab wasn’t as intimidating. Nevertheless, I took the time to write out my pseudo-code to prepare for what was to come. Reading through the lab’s README.md, I was confident when starting to code. Using the pseudo-code, I started defining the methods and making notes of which code the methods would require. The easiest methods included the initialize, the win combinations, display board, and input to index. 
 
-My personal goals to achieve by the end of this program:
-1. Don't let my simple mistakes frustrate me
-2. Learn from everyone and every source I possibly can
-3. Enjoy every moment of this process 
+However, I ran into some challenges coding the turn method and it’s required helper methods. It took some time, but with online research and revisiting older labs, I found the cleanest way to write the necessary Booleans and the Ruby methods I needed to succeed (e.g., .between?, .detect, ,any?). The most useful information I found was on the [Ruby operators](https://www.tutorialspoint.com/ruby/ruby_operators.htm). These might be a personal favorite of mine. 
 
-Number 1 is deffently the hardest for me, right now. I've always considered myself detail-oriented, but I acknowledge that when I make simple mistakes (like using quotes instead of backtics) it invokes feelings of self-doubt and my inner critic reminds me that "I should have known better" or "Other people don't make these mistakes". It will take some time, maybe even the full length of the program, to conquer this goal. Yet, I feel change occuring within myself already. I feel so fornutate to be in a program that promotes kindess and is so supportive. 
+My greatest disappoint though, is learning that it wouldn’t be easy to share the code with a friend so that we could play a game together! Maybe a future lab will remedy this! 
